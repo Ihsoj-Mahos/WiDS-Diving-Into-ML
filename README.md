@@ -1,6 +1,6 @@
 # **WiDS : Diving Into ML**
 
-This project is a part of ``Winter in Data Science(WiDS)'' conducted by Analytics Club and UGAC, IIT Bombay. The mentors for this project are Anand Narasimhan and Soham Joshi. The complete details for the project can be found in the [documentation](https://docs.google.com/document/d/14zylh1gQ5Ffdjy0xSeKeeFP1GgbGGGYaIs2eNCA56IQ/edit?usp=sharing).
+This project is a part of ''Winter in Data Science(WiDS)'' conducted by Analytics Club and UGAC, IIT Bombay. The mentors for this project are Anand Narasimhan and Soham Joshi. The complete details for the project can be found in the [documentation](https://docs.google.com/document/d/14zylh1gQ5Ffdjy0xSeKeeFP1GgbGGGYaIs2eNCA56IQ/edit?usp=sharing).
 
 A brief overview of the project is : 
 
