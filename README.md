@@ -12,4 +12,5 @@ A brief overview of the project is :
 Some successful implementations of the project are given below : 
 
 * https://github.com/dnyaneshwar9595/DK-Diving-into-ML
-
+* https://github.com/taruspande/Diving-Into-ML
+* https://github.com/Rishikakumari2000/rishika---diving-into-ml
