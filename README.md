@@ -16,3 +16,5 @@ Some successful implementations of the project are given below :
 * https://github.com/Rishikakumari2000/rishika---diving-into-ml
 * https://github.com/AtharvaBendale/WiDS-Diving-with-ML
 * https://github.com/shivgit07/WiDS2022-23
+* https://github.com/somidisathwikareddy/Wids-Diving-into-ML
+* https://github.com/DarthVishnu8/WiDS-Diving-into-ML
