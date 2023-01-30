@@ -18,3 +18,4 @@ Some successful implementations of the project are given below :
 * https://github.com/shivgit07/WiDS2022-23
 * https://github.com/somidisathwikareddy/Wids-Diving-into-ML
 * https://github.com/DarthVishnu8/WiDS-Diving-into-ML
+* https://github.com/vinni-977/Diving-into-ML
